@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm AKSHAY KULAT! 👋
 
-<!--
-**kulatav/kulatav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a DevOps Engineer passionate about building CLI tools, mastering Git, and creating efficient solutions. Currently, I'm sharpening my skills in Python and version control to contribute to open-source projects.
 
-Here are some ideas to get you started:
+## 🛠️ Featured Project
+**[Task Manager CLI](https://github.com/kulatav/task-manager)**  
+A Python-based command-line application for managing tasks with JSON persistence. Features include adding, viewing, completing, and deleting tasks with priorities.  
+- **Tech**: Python, JSON, CLI  
+- **Check it out**: Run `python task_manager.py` to manage your tasks!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages**: Python
+- **Tools**: Git, GitHub, Virtual Environments
+- **Interests**: CLI applications, open-source contributions, version control workflows
+
+## 📫 Get in Touch
+- **LinkedIn**: www.linkedin.com/in/akshay-kulat-77616bb6
+- **Email**: kulatakshay@gmail.com
+
+## 🌟 Fun Fact
+I'm working on becoming a Git expert and love experimenting with Python projects after dinner!
