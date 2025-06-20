@@ -19,3 +19,5 @@ A Python-based command-line application for managing tasks with JSON persistence
 
 ## 🌟 Fun Fact
 I'm working on becoming a Git expert and love experimenting with Python projects after dinner!
+
+- **[Task Manager CLI](https://github.com/kulatav/task-manager)**: Check out the [demo](https://asciinema.org/a/rByzBhm2ha6yQ9bBknnazJMRM)!
