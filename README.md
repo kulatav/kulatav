@@ -1,23 +1,33 @@
 # Hi, I'm AKSHAY KULAT! 👋
 
-Welcome to my GitHub profile! I'm a DevOps Engineer passionate about building CLI tools, mastering Git, and creating efficient solutions. Currently, I'm sharpening my skills in Python and version control to contribute to open-source projects.
+Welcome to my GitHub profile! I'm an aspiring Python developer passionate about building practical tools, mastering Git, and diving into open-source projects. I enjoy creating CLI apps and web applications to solve everyday problems. Currently, I'm honing my skills in Python, Flask, and version control to contribute meaningfully to the tech community.
 
-## 🛠️ Featured Project
-**[Task Manager CLI](https://github.com/kulatav/task-manager)**  
-A Python-based command-line application for managing tasks with JSON persistence. Features include adding, viewing, completing, and deleting tasks with priorities.  
+## 🛠️ Featured Projects
+
+### [Task Manager CLI](https://github.com/kulatav/task-manager)
+A command-line tool built with Python to manage tasks with JSON persistence. Add, view, complete, and delete tasks with priorities.  
 - **Tech**: Python, JSON, CLI  
-- **Check it out**: Run `python task_manager.py` to manage your tasks!
+- **Demo**: [Task Manager Demo](https://asciinema.org/a/rByzBhm2ha6yQ9bBknnazJMRM)  
+  [![Task Manager Demo](task-manager-demo.gif)](https://github.com/kulatav/task-manager)
+
+### [URL Shortener Web App](https://github.com/kulatav/url-shortener)
+A Flask-based web app to shorten URLs and redirect to original links, with SQLite storage. Includes an admin view for all URLs.  
+- **Tech**: Python, Flask, SQLite, HTML/CSS  
+- **Demo**: [URL Shortener Demo](https://asciinema.org/a/SHNgxdEUV3VKdiJyAfItPBNl9)  
+  [![URL Shortener Demo](url-shortener-demo.gif)](https://github.com/kulatav/url-shortener)
 
 ## 💻 Skills
 - **Languages**: Python
-- **Tools**: Git, GitHub, Virtual Environments
-- **Interests**: CLI applications, open-source contributions, version control workflows
+- **Frameworks**: Flask
+- **Tools**: Git, GitHub, SQLite, Virtual Environments
+- **Interests**: CLI development, web apps, version control, open-source contributions
 
 ## 📫 Get in Touch
 - **LinkedIn**: www.linkedin.com/in/akshay-kulat-77616bb6
 - **Email**: kulatakshay@gmail.com
 
 ## 🌟 Fun Fact
-I'm working on becoming a Git expert and love experimenting with Python projects after dinner!
+I love coding after dinner and experimenting with Git workflows to streamline my projects!
 
-- **[Task Manager CLI](https://github.com/kulatav/task-manager)**: Check out the [demo](https://asciinema.org/a/rByzBhm2ha6yQ9bBknnazJMRM)!
+---
+*Last updated: June 2025*
