@@ -11,9 +11,9 @@ A command-line tool built with Python to manage tasks with JSON persistence. Add
   [![Task Manager Demo](task-manager-demo.gif)](https://github.com/kulatav/task-manager)
 
 ### [URL Shortener Web App](https://github.com/kulatav/url-shortener)
-A Flask-based web app to shorten URLs and redirect to original links, with SQLite storage. Tracks clicks, creation timestamps, and allows custom expiration periods (1-90 days).  
+A Flask-based web app to shorten URLs and redirect to original links, with SQLite storage. Tracks clicks, unique visitors, creation timestamps, and allows custom expiration periods (1-90 days).  
 - **Tech**: Python, Flask, SQLite, HTML/CSS  
-- **Demo**: [URL Shortener Demo](https://asciinema.org/a/SHNgxdEUV3VKdiJyAfItPBNl9)  
+- **Demo**: [URL Shortener Demo](https://asciinema.org/a/Kz5g0VG44XH9BjMHAivlYThZS)  
   [![URL Shortener Demo](url-shortener-demo.gif)](https://github.com/kulatav/url-shortener)
 
 ## 💻 Skills
